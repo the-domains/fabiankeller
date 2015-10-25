@@ -1,0 +1,23 @@
+name: fabiankeller
+favicon: null
+layout_spectrum: 0.27335759508423507
+typography_spectrum: 0.7200314949732274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9494522523600608
+  lightness: 0.7314854534342885
+  saturation: 0.18611361412331462
+  rhythmicContrast: 0.39114780235104263
+purpose: []
